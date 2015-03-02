@@ -4,6 +4,12 @@ A node.js module for getting a music streaming url from Grooveshark without any 
 
 [![Build Status](https://travis-ci.org/xissy/node-grooveshark-streaming.png?branch=master)](https://travis-ci.org/xissy/node-grooveshark-streaming)
 
+Check if it works and then:
+
+REMOVE: Coffescript dependency
+ADD: https://github.com/gf3/sandbox
+
+
 ## Features
 
 - Searches grooveshark song info by a track title and an artist name.
